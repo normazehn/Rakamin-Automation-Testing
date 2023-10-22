@@ -11,6 +11,6 @@ import io.cucumber.junit.Cucumber;
         tags = "@Regression",
         plugin = {"html:target/HTML_report.html"}
 )
-public class runTest {
+public class RunTest {
 
 }
